@@ -24,7 +24,7 @@
 
 
     <div class="text-center">
-        <h1>Face Of Art Info System</h1>
+        <h1>Face Of Art technologies</h1>
         <p>Employee information system project</p>
         <br>
 
