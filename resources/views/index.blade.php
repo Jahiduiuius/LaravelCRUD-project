@@ -24,8 +24,8 @@
 
 
     <div class="text-center">
-        <h1>Hello, Crud!</h1>
-        <p>This is a simple CRUD application.</p>
+        <h1>Face Of Info System</h1>
+        <p>Employee information system project</p>
         <br>
 
 
